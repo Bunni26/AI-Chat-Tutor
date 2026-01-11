@@ -10,3 +10,4 @@ pydantic==1.10.13
 sqlalchemy-utils==0.38.3
 PyMySQL==1.1.0
 gunicorn
+Flask-Cors==4.0.0
